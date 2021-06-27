@@ -13,13 +13,9 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/>
 </div>
 
-<p align="center"> 
-  <a href="##-init"> INIT </a> | <a href="##-features"> FEATURES </a> | <a href="##-release"> RELEASE </a> | <a href="##-hotfix"> HOTFIX </a>
-</p>
+## Você precisa do git instalado como pré-requisito.
 
 <hr>
-
-## Você precisa do git instalado como pré-requisito.
 
 ### Init
 
