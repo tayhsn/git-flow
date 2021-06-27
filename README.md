@@ -21,7 +21,7 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 
 <hr>
 
-#### Init
+## Init
 
 * Comece o uso do git-flow fazendo sua inicialização dentro de um repositório git existente
 
@@ -31,7 +31,7 @@ Você precisa responder algumas questões relativas às convenções de nomencla
 
 <hr>
 
-#### Features
+## Features
 
 Desenvolva novas funcionalidades para as versões futuras
 Normalmente existem apenas nos repositórios dos desenvolvedores
@@ -64,7 +64,7 @@ Para acompanhar o desenvolvimento
 
 <hr>
 
-#### Release
+## Release
 
 Auxilia a preparação de uma nova versão de produção
 Permite correções de bugs menores e a preparação de metadados de uma versão
@@ -89,7 +89,7 @@ Ele executa várias ações: Mescla o branch da versão no 'master', Etiqueta a 
 
 <hr>
 
-#### HotFix
+## HotFix
 
 Os hotfixes surgem da necessidade de agir imediatamente sobre uma situação indesejada na versão de produção ativa
 Pode ser criado a partir da tag correspondente no branch master que indica a versão em produção.
