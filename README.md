@@ -7,19 +7,21 @@
 Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para salva-ló. :sparkles:
 
 <hr>
-
-<img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" />
-
+<div align="center">
+Git Flow Cheatsheet - Comandos
+<img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/>
+</div>
 <hr>
 
-#### Você precisa do git instalado como pré-requisito.
+## Você precisa do git instalado como pré-requisito.
 
-* Inicializando dentro de um repositório git existente
+### Inicialização
+
+* Comece o uso do git-flow fazendo sua inicialização dentro de um repositório git existente
 
 ``` GIT FLOW INIT ```
 
-Você precisa responder algumas questões relativas às convenções de nomenclatura dos seus branches.
-**É recomendado que sejam usados os valores padrões.** 
+Você precisa responder algumas questões relativas às convenções de nomenclatura dos seus branches. **É recomendado que sejam usados os valores padrões.** 
 
 <hr>
 
