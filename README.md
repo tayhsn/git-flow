@@ -9,11 +9,11 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 <hr>
 
 <div align="center">
-<p>Git Flow Cheatsheet - Comandos<p>
+<p>Git Flow Cheatsheet (Comandos) <p>
 <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/>
 </div>
 
-## Você precisa do git instalado como pré-requisito.
+<h3 align="center"> Você precisa do git instalado como pré-requisito. </h3>
 
 <hr>
 
