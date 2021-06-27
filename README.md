@@ -14,10 +14,7 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 </div>
 
 <p align="center"> 
-  <a href="#-init"> INIT </a>
-  <a href="#-features"> FEATURES </a>
-  <a href="#-release"> RELEASE </a>
-  <a href="#-hotfix"> HOTFIX </a>
+  <a href="##-init"> INIT </a> | <a href="##-features"> FEATURES </a> | <a href="##-release"> RELEASE </a> | <a href="##-hotfix"> HOTFIX </a>
 </p>
 
 <hr>
