@@ -7,15 +7,24 @@
 Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para salva-ló. :sparkles:
 
 <hr>
+
 <div align="center">
-Git Flow Cheatsheet - Comandos
+<p>Git Flow Cheatsheet - Comandos<p>
 <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/>
 </div>
+
+<p align="center"> 
+  <a href="#-init"> INIT </a>
+  <a href="#-features"> FEATURES </a>
+  <a href="#-release"> RELEASE </a>
+  <a href="#-hotfix"> HOTFIX </a>
+</p>
+
 <hr>
 
 ## Você precisa do git instalado como pré-requisito.
 
-### Inicialização
+### Init
 
 * Comece o uso do git-flow fazendo sua inicialização dentro de um repositório git existente
 
