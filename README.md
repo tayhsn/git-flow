@@ -10,7 +10,7 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 <h3 align="center"> Você precisa ter o git previamente instalado. </h3>
 
 <div align="center">  <a href="#init"> INIT </a> | <a href="#features"> FEATURES </a> | <a href="#release"> RELEASE </a> | <a href="#hotfix"> HOTFIX </a></div>
-
+<br>
 <div align="center">
     <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/> 
 </div>
