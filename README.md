@@ -12,10 +12,8 @@ Para facilitar, faça um FORK para copiar o repositório ou deixe uma STAR para 
 <div align="center">  <a href="#init"> INIT </a> | <a href="#features"> FEATURES </a> | <a href="#release"> RELEASE </a> | <a href="#hotfix"> HOTFIX </a></div>
 
 <div align="center">
-<p>Git Flow Cheatsheet (Comandos) <p>
-    <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/> </div>
-
-
+    <img src="https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png" alt="Git Flow Cheatsheet"/> 
+</div>
 
 <hr>
 
